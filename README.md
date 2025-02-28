@@ -78,42 +78,43 @@ To cluster customers, we calculated the **Recency, Frequency, and Monetary (RFM)
 
 ### **Visualizations:**
 
-- **Top 10 Countries by Revenue** [View Chart]\(images/top\_10\_countries\_by\_revenue.html)
-[View Chart] (file:///C:/Users/mkost/OneDrive/Desktop/data%20science/math&ml/PROJECT-6/images/top_10_countries_by_revenue.html)
+- **Top 10 Countries by Revenue** [View Chart] (https://wsiqz.github.io/customer_segmentation/top_10_countries_by_revenue.html)
+
 - **Monthly Revenue** (see Project)
 
 - **Daily Orders over Time** (see Project)
 
-- **Sales Trend by Day of the Week** [View Chart] (images/sales\_trend\_by\_day\_of\_the\_week.html)
+- **Sales Trend by Day of the Week** [View Chart] (https://wsiqz.github.io/customer_segmentation/sales_trend_by_day_of_the_week.html)
 
 - **Orders by Hour** (see Project)
 
-- **Top 10 Customers by Total Spending** [View Chart] (images/top\_10\_customers\_by\_total\_spending.html)
+- **Top 10 Customers by Total Spending** [View Chart] (https://wsiqz.github.io/customer_segmentation/top_10_customers_by_total_spending.html)
 
-- **Distribution of AOV** [View Chart] (images/distribution\_of\_average\_order\_value.html)
+- **Distribution of AOV** [View Chart] (https://wsiqz.github.io/customer_segmentation/distribution_of_average_order_value.html)
 
-- **Top 10 Returned Products** [View Chart] (images/top\_10\_returned\_products.html)
+- **Top 10 Returned Products** [View Chart] (https://wsiqz.github.io/customer_segmentation/top_10_returned_products.html)
 
-- **RFM Boxplots** [View Chart] (images/rfm\_boxplots.html)                            [View Chart] (images/rfm\_boxplots\_filtered.html)
+- **RFM Boxplots** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_boxplots.html)
+ (https://wsiqz.github.io/customer_segmentation/rfm_boxplots_filtered.html)
 
 - **2D RFM Scatter Plot** 
 [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_scatter_plot.html)
 
-- **2D RFM PCA Scatter Plot** [View Chart] (images/rfm\_pca\_scatter\_plot.html)
+- **2D RFM PCA Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_pca_scatter_plot.html)
 
-- **2D RFM t-SNE Scatter Plot** [View Chart] (images/rfm\_tsne\_scatter\_plot.html)
+- **2D RFM t-SNE Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_tsne_scatter_plot.html)
 
-- **2D RFM t-SNE Clusters Scatter Plot** [View Chart] (images/rfm\_tsne\_clusters.html)
+- **2D RFM t-SNE Clusters Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_tsne_clusters.html)
 
-- **2D RFM UMAP Scatter Plot** [View Chart] (images/rfm\_umap\_scatter\_plot.html)
+- **2D RFM UMAP Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_umap_scatter_plot.html)
 
-- **2D RFM UMAP Clusters Scatter Plot** [View Chart] (images/rfm\_umap\_clusters.html)
+- **2D RFM UMAP Clusters Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_umap_clusters.html)
 
-- **2D RFM UMAP (no outliers) Clusters Scatter Plot** [View Chart] (images/rfm\_umap\_clusters\_clean.html)
+- **2D RFM UMAP (no outliers) Clusters Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_umap_clusters_clean.html)
 
-- **3D Final Clusters Scatter Plot** [View Chart] (images/rfm\_3d\_clusters\_clean.html)
+- **3D Final Clusters Scatter Plot** [View Chart] (https://wsiqz.github.io/customer_segmentation/rfm_3d_clusters_clean.html)
 
-- **Cluster Profile Radar Chart** [View Chart] (images/cluster\_profile.html)
+- **Cluster Profile Radar Chart** [View Chart] (https://wsiqz.github.io/customer_segmentation/cluster_profile.html)
 
 ## 🔍 Key Findings (Customer Segments)
 

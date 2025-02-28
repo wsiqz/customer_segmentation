@@ -97,6 +97,7 @@ To cluster customers, we calculated the **Recency, Frequency, and Monetary (RFM)
 - **RFM Boxplots** [View Chart] (images/rfm\_boxplots.html)                            [View Chart] (images/rfm\_boxplots\_filtered.html)
 
 - **2D RFM Scatter Plot** [View Chart] (images/rfm\_scatter\_plot.html)
+[View Chart] (https://wsiqz.github.io/customer_segmentation/docs/rfm_scatter_plot.html)
 
 - **2D RFM PCA Scatter Plot** [View Chart] (images/rfm\_pca\_scatter\_plot.html)
 

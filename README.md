@@ -155,7 +155,8 @@ To cluster customers, we calculated the **Recency, Frequency, and Monetary (RFM)
 │-- 📄 README.md
 │-- 📄 requirements.txt
 │-- 📂 data/ (Cleaned transactions dataset, Original dataset)
-|-- 📂 images/ (Plots)
+|-- 📂 images/ (Plots(png))
+|-- 📂 docs/ (Plots(html))
 ```
 
 ## 🎯 Future Improvements

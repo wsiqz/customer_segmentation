@@ -79,7 +79,7 @@ To cluster customers, we calculated the **Recency, Frequency, and Monetary (RFM)
 ### **Visualizations:**
 
 - **Top 10 Countries by Revenue** [View Chart]\(images/top\_10\_countries\_by\_revenue.html)
-
+[View Chart] (file:///C:/Users/mkost/OneDrive/Desktop/data%20science/math&ml/PROJECT-6/images/top_10_countries_by_revenue.html)
 - **Monthly Revenue** (see Project)
 
 - **Daily Orders over Time** (see Project)
